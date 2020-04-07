@@ -1,4 +1,3 @@
-Firebase Cloud Messaging 
+# A basic Firebase Cloud Messaging Android Application 
 
-This is the most basic Infrastructure needed. Make the commits as needed(For the collabrators). Fork it if you want
-sdffdgd
+This is the most basic Infrastructure needed to enable an Android Application for FCM.
